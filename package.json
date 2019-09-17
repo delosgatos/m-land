@@ -1,0 +1,19 @@
+{
+  "name": "m-land",
+  "version": "0.0.1",
+  "description": "Letters from motherland",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/delosgatos/m-land.git"
+  },
+  "author": "delosgatos@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/delosgatos/m-land/issues"
+  },
+  "homepage": "https://github.com/delosgatos/m-land#readme"
+}

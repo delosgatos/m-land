@@ -1,3 +1,9 @@
+.idea
+.realsync
+node_modules
+package-lock.json
+cleanup.sh
+
 # Logs
 logs
 *.log
